@@ -14,3 +14,24 @@ XO vs AI is a modern twist on the classic Tic-Tac-Toe game! You can play with a 
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Play
+1. Open **index.html** in your browser.  
+2. Select your mode:  
+   - **2 Player** → Play with a friend.  
+   - **Vs Computer (Easy)** → Play against random moves.  
+   - **Vs Computer (Hard)** → Play against unbeatable AI.  
+3. Take turns placing X’s and O’s.  
+4. First to align 3 in a row wins!  
+
+---
+
+## 🖥️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling, Dark Mode  
+- **JavaScript (ES6)** – Game logic + AI  
+
+---
+
