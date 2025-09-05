@@ -15,6 +15,11 @@ XO vs AI is a modern twist on the classic Tic-Tac-Toe game! You can play with a 
 
 ## 📂 Project Structure
 
+📦 TicTacToe-XO-vs-AI
+┣ 📜 index.html # Main HTML structure
+┣ 📜 style.css # Styling and dark mode
+┣ 📜 app.js # Game logic, AI, and interactivity
+
 ---
 
 ## 🚀 How to Play
