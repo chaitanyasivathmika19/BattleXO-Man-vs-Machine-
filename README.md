@@ -13,12 +13,15 @@ XO vs AI is a modern twist on the classic Tic-Tac-Toe game! You can play with a 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
-📦 TicTacToe-XO-vs-AI
-┣ 📜 index.html # Main HTML structure
-┣ 📜 style.css # Styling and dark mode
-┣ 📜 app.js # Game logic, AI, and interactivity
+/ (root)  
+│── index.html                # Main HTML structure  
+│── style.css                 # Styling and dark mode  
+│── app.js                    # Game logic, AI, and interactivity  
+│  
+│── README.md                 # Documentation  
+│── .gitignore                # Git ignored files  
 
 ---
 
