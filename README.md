@@ -54,6 +54,7 @@
 ---
 
 ## 🚀 How to Play  
+
 1. Open **index.html** in your browser.  
 2. Select your mode:  
    - 👫 **2 Player** → Play with a friend.  
@@ -64,10 +65,11 @@
 
 ---
 
-
-
-
 ## 📜 License  
+
+***
+
 This project is open-source and free to use. Feel free to fork, modify, and share!  
+
 © 2025 Chaitanya Sivatmika | [Play Here](https://chaitanyasivathmika19.github.io/BattleXO-Man-vs-Machine-/)   | Built with ❤️ and JavaScript
 ---
