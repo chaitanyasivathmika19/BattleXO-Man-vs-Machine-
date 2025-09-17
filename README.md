@@ -64,7 +64,10 @@
 
 ---
 
+
+
+
 ## 📜 License  
 This project is open-source and free to use. Feel free to fork, modify, and share!  
-
+© 2025 Chaitanya Sivatmika | [Play Here](https://chaitanyasivathmika19.github.io/BattleXO-Man-vs-Machine-/)   | Built with ❤️ and JavaScript
 ---
