@@ -41,17 +41,15 @@
 ## 📂 Project Structure  
 
 / (root)  
-│── index.html                # Main HTML structure  
-│── style.css                 # Styling and dark mode  
-│── app.js                    # Game logic, AI, and interactivity  
+│── index.html                   # Main HTML structure  
+│── style.css                    # Styling and dark mode  
+│── app.js                       # Game logic, AI, and interactivity  
 │  
-│── README.md                 # Documentation  
-│── .gitignore                # Git ignored files  
+│── README.md                    # Documentation  
+│── .gitignore                   # Git ignored files  
 
 ---
 
-
----
 
 ## 🚀 How to Play  
 
